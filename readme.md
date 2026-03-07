@@ -5,18 +5,18 @@ I'm a computing student. If you ask me if I'm CS or CE, answer is I don't know b
 I upload my cool projects here, either for visibility (looking at you, HR/AO guy) or to prove that my programmes aren't malicious, because to be fair I do make some stuff that could very easily hurt people if closed source. So no FBI, I am NOT the guy you're looking for. With that said, check this stuff out! :D
 
 ### Utilities
-- [TempC](https://github.com/Qu1ck5h0t/tempc)
-- [SteamClean](https://github.com/Qu1ck5h0t/SteamClean)
-- [Discord message log retriever](https://qu1ck5h0t.github.io/discord-retriever/)
-- [bashrc_QoL_additions.sh](https://gist.github.com/Qu1ck5h0t/518dc908cf57f933048603d6c2e3336c)
+- [TempC](https://github.com/Qu1ck5h0t/tempc) - Effectively an interpretive C runtime
+- [SteamClean](https://github.com/Qu1ck5h0t/SteamClean) - Cleans uninstalled steam game residue
+- [Discord message log retriever](https://qu1ck5h0t.github.io/discord-retriever/) - Retrieves Discord chat logs as zipped json files
+- [bashrc_QoL_additions.sh](https://gist.github.com/Qu1ck5h0t/518dc908cf57f933048603d6c2e3336c) - bashrc quality of life mods
 
 ### Documentation
-- [CTF Writeups](https://github.com/Qu1ck5h0t/CTF-Writeups)
-- [Cryptohack Scripts](https://github.com/Qu1ck5h0t/cryptohack-scripts)
+- [CTF Writeups](https://github.com/Qu1ck5h0t/CTF-Writeups) - Writeups for my CTFs
+- [Cryptohack Scripts](https://github.com/Qu1ck5h0t/cryptohack-scripts) - Writeups for my Cryptohack stuff
 
 ### Fun
-- [vid2scratch](https://github.com/Qu1ck5h0t/vid2scratch)
-- [Scratch-Crypto](https://github.com/Qu1ck5h0t/Scratch-Crypto)
+- [vid2scratch](https://github.com/Qu1ck5h0t/vid2scratch) - Converts .mp4 to Scratch .sb3 files that are functionally videos
+- [Scratch-Crypto](https://github.com/Qu1ck5h0t/Scratch-Crypto) - Cryptography/Cryptanalysis stuff but on Scratch!
 
 ### Code written as exercises/archival code with no practical application in this day and age
 - List too long with too little practicality, I'll put a link here at somepoint to an aggregation of them
