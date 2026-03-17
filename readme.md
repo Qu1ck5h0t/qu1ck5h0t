@@ -2,7 +2,11 @@
 
 I'm a computing student. If you ask me if I'm CS or CE, answer is I don't know because I've received offers from great universities where I applied CS, and I'm waiting on many schools where I applied CE. So let's just call me a "computing student" for now.
 
-I upload my cool projects here, either for visibility (looking at you, HR/AO guy) or to prove that my programmes aren't malicious, because to be fair I do make some stuff that could very easily hurt people if closed source. So no FBI, I am NOT the guy you're looking for. With that said, check this stuff out! :D
+I upload my cool projects here, either for visibility (looking at you, HR/AO guy) or to prove that my programmes aren't malicious, because to be fair I do make some stuff that could very easily hurt people if closed source. So no FBI, I am NOT the guy you're looking for. 
+
+Before we go further, I'd like you to know that more stuff can be found on my website at https://qu1ck5h0t.github.io/
+
+With that said, check this stuff out! :D
 
 ### Utilities
 - [TempC](https://github.com/Qu1ck5h0t/tempc) - Effectively an interpretive C runtime
