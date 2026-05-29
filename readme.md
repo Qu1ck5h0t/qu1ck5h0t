@@ -11,6 +11,7 @@ With that said, check this stuff out! :D
 ### Utilities
 - [TempC](https://github.com/Qu1ck5h0t/tempc) - Effectively an interpretive C runtime
 - [SteamClean](https://github.com/Qu1ck5h0t/SteamClean) - Cleans uninstalled steam game residue
+- [FIX THE WORLD](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/tree/main) - Reduces bloat and valueless attention grabbing design choices/elements from the web
 - [Discord message log retriever](https://qu1ck5h0t.github.io/discord-retriever/) - Retrieves Discord chat logs as zipped json files
 - [bashrc_QoL_additions.sh](https://gist.github.com/Qu1ck5h0t/518dc908cf57f933048603d6c2e3336c) - bashrc quality of life mods
 
