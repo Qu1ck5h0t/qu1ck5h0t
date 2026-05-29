@@ -17,7 +17,7 @@ With that said, check this stuff out! :D
 
 ### Documentation
 - [Cryptodocs](https://qu1ck5h0t.github.io/ctf/docs) - A comprehensive wiki for (almost) everything in CTF cryptography, exploits and challs included!
-- [CTF Writeups](https://qu1ck5h0t.github.io/ctf/writeups) - Writeups for my CTFs. A larger repository with less quality control from my earlier days exists [here](https://github.com/Qu1ck5h0t/CTF-Noob-Writeups).
+- [CTF Writeups](https://qu1ck5h0t.github.io/ctf/writeups) - (Good) writeups for my CTFs. A larger repository with less quality control from my earlier days exists [here](https://github.com/Qu1ck5h0t/CTF-Noob-Writeups).
 - [Cryptohack Scripts](https://github.com/Qu1ck5h0t/cryptohack-scripts) - Writeups for my Cryptohack stuff
 
 ### Fun
