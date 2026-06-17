@@ -25,7 +25,7 @@ With that said, check this stuff out! :D
 - [Scratch-Crypto](https://github.com/Qu1ck5h0t/Scratch-Crypto) - Cryptography/Cryptanalysis stuff but on Scratch!
 
 ### Programming stuff
-- [dectalkTTS](https://github.com/idktheflag/slop-archive) - Python module for synchronous NT/Linux cross platform TTS function with custom dectalk binaries (available on [PyPi](https://pypi.org/project/dectalkTTS/))!
+- [dectalkTTS](https://github.com/idktheflag/slop-archive) - Python module for synchronous TTS function with custom dectalk NT/posix binaries (available on [PyPi](https://pypi.org/project/dectalkTTS/))!
 
 ### Code written as exercises/archival code with no practical application in this day and age
 - List too long with too little practicality, I'll put a link here at somepoint to an aggregation of them
