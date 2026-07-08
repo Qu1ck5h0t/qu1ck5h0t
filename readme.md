@@ -2,7 +2,7 @@
 
 I'm a computing student. If you ask me if I'm CS or CE, answer is I don't know because I've received offers for both subjects from great universities, which I'm yet to decide on. So let's just call me a "computing student" for now.
 
-I upload my cool software projects here, either for visibility (looking at you, HR/AO guy) or to prove that my programmes aren't malicious, because to be fair I do make some stuff that could very easily hurt people if closed source. So no FBI, I am NOT the guy you're looking for. 
+I upload my cool software projects here, either for visibility (looking at you, HR/AO guy) or to prove that my programmes aren't malicious, because to be fair the things I make could risk hiding malicious code if closed source (like Microslop or McAfee). So no FBI, I am NOT the guy you're looking for. 
 
 Before we go further, I'd like you to know that more stuff can be found on my website at https://qu1ck5h0t.github.io/. I might even feature my hardware projects there down the line.
 
